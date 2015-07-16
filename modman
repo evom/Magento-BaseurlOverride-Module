@@ -1,0 +1,3 @@
+app/code/local/EvolvingMedia/BaseurlOverride/Model/Store.php app/code/local/EvolvingMedia/BaseurlOverride/Model/Store.php
+app/code/local/EvolvingMedia/BaseurlOverride/etc/config.xml app/code/local/EvolvingMedia/BaseurlOverride/etc/config.xml
+app/etc/modules/EvolvingMedia_BaseurlOverride.xml app/etc/modules/EvolvingMedia_BaseurlOverride.xml
