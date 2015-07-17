@@ -31,6 +31,11 @@ Configuration
   See `local.xml.sample` for example in context.
 
 
+Credits
+-------
+
+  * Adapted from: [jwills.co.uk](http://jwills.co.uk/2009/03/magento-base-urls-and-devstaging-installations/)
+
 
 Version History
 ---------------
